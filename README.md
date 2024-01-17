@@ -28,7 +28,7 @@ To set up the backend, follow these steps:
 
 To set up the frontend, follow these steps:
 
-1. Ensure you have Node.js and npm (Node Package Manager) installed.
+1. Ensure you have `Node.js` and npm (Node Package Manager) installed.
 2. Open the `frontend` folder in your preferred code editor.
 3. Run `npm install` to install the required dependencies.
 4. Update the API endpoint in the Angular service files to match the backend server address.
